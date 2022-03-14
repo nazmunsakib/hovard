@@ -1,0 +1,321 @@
+----- 1.6.0 (05 February 2022) -----
+Fixed: Docy Button widget's Font-Awesome icon was not rendering
+New: Box style controls added to Single Doc widget
+Tweaked: _register_controls() function replaced with register_controls() in the Docy Core Elementor widgets
+
+----- 1.5.9 (01 February 2022) -----
+Fixed: Breadcrumb was broken on the Topic Reply Edit page
+Tweaked: Dark Mode colors
+Tweaked: Forum Topic page design improved (admin links, user badge, best answer badge)
+Tweaked: Responsive view on small devices (tablet mobile view) improved
+
+----- 1.5.8 (26 January 2022) -----
+Fixed: Font size switcher default font size switch was not working
+Tweaked: Home Forum demo responsive view improved
+Tweaked: Single Forum widget design
+Tweaked: Reply edit page design (duplicate box shadow removed, page background color added)
+Tweaked: Doc right sidebar shown on mobile
+Tweaked: Sticky menu enabled on mobile
+Tweaked: Topic/Reply link added with date
+
+----- 1.5.7 (23 January 2022) -----
+Fixed: Doc link was not working if doc slug change in the "(Docly) Docs List" WordPress widget
+Tweaked: PRO Elements plugin's Elementor plugin active notice removed from dashboard
+
+----- 1.5.6 (19 January 2022) -----
+Tweaked: Mobile menu responsive view (on mobile & tab screen)
+Tweaked: Doc single page responsive view (on mobile & tab screen)
+Deleted: Mega menu (since we aren't using this feature on the theme demo, we deleted this feature)
+Replaced: Code Syntax Highlighter Elementor widget replaced with the Code Highlight widget (used from the PRO Elements plugin)
+Fixed: Mobile was missing on OnePage (on mobile and tab devices)
+
+----- 1.5.5 (13 January 2022) -----
+New: Included Support Forum demo in one click demo import
+Tweaked: Single forum widget spacing and alignment
+Tweaked: "Posts" (PRO Elements) Elementor widget default box shadow
+
+----- 1.5.4 (24 December 2021) -----
+New: Home Forum
+New: PRO Elements (Elementor Pro alternative) included
+New: Show/Hide Estimated reading time & views on single doc page
+Fixed: Helpful vote (yes/no) on doc single page
+Tweaked: Docy Search widget customizability
+
+----- 1.5.3 (20 December 2021) -----
+New: Resolved topic feature added for forum topic
+New: Best answer feature added for forum topic reply
+New: Resolved topic badge on topic list page added
+
+----- 1.5.2 (14 December 2021) -----
+New: Container box-shadow on-off switcher added to Theme Settings > Color Schemes
+New: Private reply feature added for forum topic reply
+New: Solved topic feature added for the forum topic
+New: Best answer feature added for topic replies
+New: Attachment upload option for topic replies
+New: [code] shortcode. Now you can place code anywhere with the [code lang=""] you code goes here [/code] shortcode.
+
+----- 1.5.1 (08 December 2021) -----
+New: Single Doc Widget style fields added for docs content
+Fixed: PHP errors on blog pages
+Fixed: Buttons text change option was not showing for Single Doc Elementor widget
+Fixed: Single Doc widget filtered style issue solved
+
+----- 1.5.0 (7 December 2021) -----
+New: 'terms' shortcode added for showing taxonomy list with description
+New: Post views, Estimated reading time for Docs
+Tweaked: Search form design
+Fixed: bbPress Forums, Topics, Replies were not included in the Search Results > All
+
+----- 1.4.9 (03 December 2021) -----
+New: Creative banner layout for blog post
+New: Video post format support added for blog single page
+New: Forum user roles icon changing options added to Theme Settings > Forum > Users
+Fixed: White logo was showing instead of black logo on the mobile menu items container
+Tweaked: Blog grid layout post design improved
+Tweaked: Forum single page design (Reply, Favorite button hover)
+
+----- 1.4.8 (24 November 2021) -----
+New: Dual Box Notice, Note With Icon and Block Notice style presets added in Docy Alert/Notice Elementor widget
+Tweaked: Shortcode insert support enabled in the Forum post and forum reply content.
+Tweaked: Forum single design hierarchy improved (content paragraph color changed)
+Tweaked: Forum single page view improved on mobile devices
+Fixed: Style changes were not working on the Elementor editor for Table Elementor widget
+Fixed: Navbar menu default colors were showing wrong somewhere
+Fixed: Category and Tag Descriptions show instead of post excerpt on the Category and Tag single pages
+
+----- 1.4.7 (17 November 2021) -----
+Tweaked: Steps panel design
+Tweaked: Forum user profile page design improved
+Tweaked: Blog page design improved
+Tweaked: Dark mode colors
+Tweaked: Post meta design improved by keep it minimal (forum reply meta, blog post comment meta)
+Fixed: Forum user profile page (duplicate titlebar, user topics, user favorites)
+Fixed: Action button background color was not changing from Page Options
+
+----- 1.4.6 (03 November 2021) -----
+New: Sticky Navbar options added to Theme Settings > Header > Layout & Settings
+New: Navbar Meu Alignment option added to Theme Settings > Menu
+Tweaked: Typography improved (tags widget, paragraph font size, color, letter spacing)
+Tweaked: Dark mode colors
+Tweaked: Doc single page (feedback area design improved)
+
+----- 1.4.5 (20 October 2021) -----
+New: Dark Mode options tab added on the Theme Settings page.
+Tweaked: Dark Mode option moved from Theme Settings > Header > Dark Mode to Theme Settings > Dark Mode
+Fixed: Navigation colors based on selected value from Theme Settings and Page settings
+Fixed: Github social icon was not showing
+Deleted: Privacy consent bar feature removed and the Privacy settings tab deleted from the Theme Settings page due to error occurred for that feature.
+
+----- 1.4.4 (13 October 2021) -----
+New: Theme Settings > Header > Layout & Settings
+Fixed: Some options were not working in Theme Settings > Blog
+Fixed: Some options were not working in Theme Settings > Footer
+Tweaked: Dark Mode colors
+
+----- 1.4.3 (10 October 2021) -----
+Fixed: Search banner and static positioned header was showing on page
+Tweaked: Dark mode colors
+
+----- 1.4.2 (10 October 2021) -----
+Fixed: Docy Core plugin was not installing
+New: Search Banner Show/Hide option added to Theme Settings > Header > Search Banner.
+Tweaked: Search banner show/hide switch replaced with Group Buttons on Options :: Doc > Header Settings
+
+----- 1.4.1 (09 October 2021) -----
+New: Theme register/verify menu in the WordPress dashboard
+New: Theme auto update (will unlock on register/verify the theme)
+Tweaked: Docy Core plugin moved to our server.
+
+----- 1.4.0 (06 October 2021) -----
+Fixed: JavaScript console error
+Fixed: Forum Topic Replies (last reply was not showing and +1 reply count was showing in the pagination)
+Fixed: Duplicate titlebar/banner was showing on the Forum search results
+Tweaked: Dark mode colors (banner search input field color, Forum Topics background color)
+
+----- 1.3.9 (04 October 2021) -----
+New: WPML compatibility added for the Docy Core's Elementor widgets
+New: Section Excerpt limit option added to Theme Settings > Doc Settings
+Tweaked: "FAQ Tabs" Elementor widget (Category Order and Order by options added under the Filter tab)
+Tweaked: Border Radius, Margin controls added under Style Search Keywords section in the Hero Eelementor widget
+Fixed: JavaScript console error for Dropdown Options on the Doc right sidebar
+Fixed: Single post TOC layout Sticky Toc switcher was not working
+
+----- 1.3.8 (27 September 2021) -----
+Fixed: Page content show on menu dropdown item hover when has mega menu
+Tweaked: Logo and navigation condition
+Tweaked: Performance improved (artplayer.js, fontawesome css minified, removed some unnecessary CSS)
+Tweaked: content-single-topic-lead.php template used for Topic lead post on Forum Topic page.
+
+----- 1.3.7 (19  September 2021) -----
+New: Blog Toc post layout (https://tinyurl.com/yhd5ptg9)
+Tweaked: Performance improved (some garbage css deleted)
+
+----- 1.3.6 (07  September 2021) -----
+New: "Options :: Post" metabox fields added for blog Post
+New: Post banner type (Colorful, Image) added to Options :: Post > Banner
+Tweaked: Dark Mode colors
+Tweaked: Language parameter (?lang=) added inside the Ajax search forms for WPML compatibility
+
+----- 1.3.5 (02 September 2021) -----
+New: See More link added to the Related and Recent Docs
+Fixed: Custom JS code wasn't rendering
+Tweaked: Search Results page dark mode
+Tweaked: Feedback links markup updated (used p tag instead of h6) at the bottom of the doc details page's feedback link
+Tweaked: Loading Spinner position in the Hero 01 (Creative Helpdesk homepage)
+Tweaked: Dark Mode colors
+
+----- 1.3.4 (31 August 2021) -----
+Tweaked: Aesthetic Search Banner (white logo enabled)
+Tweaked: Pagination added on the top of the replies to the Forum Topic details
+Tweaked: Forum Topics Details Revisions typography improved
+Tweaked: Topic edit form design
+Tweaked: Light Banner design improved
+
+----- 1.3.3 (29 August 2021) -----
+Fixed: Page Titlebar design
+
+----- 1.3.2 (29 August 2021) -----
+New: Theme Settings > Forums > Topic Details (Replies Order option added)
+Tweaked: Forum Topic details page design improved
+Tweaked: Ajax Search Results popup in dark mode (made it dark)
+Tweaked: Topic Edit and Reply Edit pages (deleted duplicate titlebar, breadcrumbs and spacing)
+Tweaked: Dark Mode colors
+Fixed: Doc printing (printing the doc page was printing the layout of the page top bar, search bar, footer, etc).
+Fixed: Doc left sidebar toggle
+
+
+----- 1.3.1 (26 August 2021) -----
+New: Loading spinner added in search form on Ajax search
+Tweaked: wpml-config.xml file updated with still_stuck_text, help_form_link_text, doc_feedback_label
+Tweaked: Dark Mode colors
+Tweaked: Overall theme design improved (design hierarchy improved on Forums Archive, Forum Topic, Search Results, Blog Single pages)
+Tweaked: Theme Settings > Doc Settings > Search Banner Merged to Theme Settings > Header > Search Banner
+Tweaked: Aesthetic Search Banner design
+Fixed: Keywords in Hero section were not showing.
+Fixed: Search form's submit button of Aesthetic Banner design was broken.
+Fixed: Forum freshness (who was last active in a forum) link was not showing correctly
+Fixed: Doc left sidebar toggle was not working on Full width layout
+
+----- 1.3.0 (19 August 2021) -----
+Fixed: JS error on console (TypeError: $(...).tooltipster is not a function)
+Fixed: Some images were not importing on demo import
+Tweaked: SVG images uploading and importing are allowed
+Updated: Online Documentation link updated to https://helpdesk.spider-themes.net/docs/docy-wordpress-theme/
+
+----- 1.2.9 (17 August 2021) -----
+Fixed: Tooltip popups were not appearing.
+Fixed: Author links of Forum Reply on Forum Topic page
+Updated: Tooltipster JS plugin to 4.2.8 from 4.2.7
+Tweaked: Removed the Reply button from the Forum Topic reply
+New: Edit, Move, Split, Trash, Spam, Unapprove, Reply links added for the logged in users at the bottom of the Forum Topic reply
+
+----- 1.2.8 (11 August 2021) -----
+Fixed: Action button colors not changing from Theme Settings
+Fixed: Ajax search was not working on typing on the doc banner's search input field
+Updated: Language (docy.pot) file
+
+----- 1.2.7 (08 July 2021) -----
+Fixed: Forum Tab conditionally removed from Search results page if bbPress plugin deactivated.
+Fixed: Search Banner not showing on the 3rd depth doc page
+
+----- 1.2.6 (21 June 2021) -----
+Tweaked: Alert Elementor widget (display flex issue fixed)
+Fixed: When you unfold the doc section tree, the section title jumps a line and this happens only since the last theme update.
+Updated: Smart bbPress nVerify plugin
+
+----- 1.2.5 (12 June 2021) -----
+New: Search Form on the Header
+New: Integrated the Smart bbPress nVerify plugin and included with the theme.
+
+----- 1.2.4 (10 June 2021) -----
+New: Filter (search doc in documentation chapters) option added to the doc single page.
+New: Doc left sidebar collapse
+Tweaked: Third depth doc support
+Fixed: Fixed some responsive issues on the doc single page
+
+----- 1.2.3 (08 June 2021) -----
+Fixed: Ajax Search not working (immediate fix)
+
+----- 1.2.2 (08 June 2021) -----
+New: Changelogs (custom post and Elementor widget)
+Fixed: Doc navigation active color not applying when the titles start with number
+Tweaked: Performance improved (docs-single.js and dark-mode.js file separated and loaded with dependency)
+Tweaked: Some design part of the theme
+Updated: Demo contents (changelogs added)
+
+----- 1.2.1 (05 June 2021) -----
+New: Ajax Search options tab added to Theme Settings > General
+New: "Style Keywords" group of controls added to the "Hero Search" Elementor widget
+Tweaked: Dependency added to the Ajax search tab (if bbPress forum isn't active, the Forum search tab will be deactivated automatically)
+Tweaked: PHP errors fixed (php errors produce on demo content if bbPress plugin deactivate)
+
+----- 1.2.0 (01 June 2021) -----
+Tweaked: Onepage doc (left navigation active class added and other improvements)
+New: Filter tabs (Docs, Forum, Blog) added on the Ajax search results
+Tweaked: Search results page (filter tabs added, search result items redesigned)
+Tweaked: bbPress breadcrumb design alignments
+Tweaked: Dark Mode support enabled for the forum search results page
+Tweaked: Dark Mode colors
+Tweaked: Performance improved by deleting the unnecessary CSS files and dependency created for forum.css CSS file
+
+----- 1.1.9 (27 May 2021) -----
+Fixed: Style broken issues cause of upgrading to Bootstrap 5
+Tweaked: Improved some design
+
+----- 1.1.8 (25 May 2021) -----
+New: OnePage documentation
+New: Upgraded to Bootstrap 5 support
+Tweaked: Doc Sidebar position adjusted on stick up the Navigation Header
+
+----- 1.1.7 (18 May 2021) -----
+Fixed: Links option not showing on Theme Settings > Footer > Footer Bottom
+Fixed: Updated and New Metafields conflicts with the old metafields
+Fixed: Action button metafield options not working
+
+----- 1.1.6 (08 May 2021) -----
+Tweaked: Color Options (Theme Settings > Color Scheme)
+Fixed: Search Banner 02
+Tweaked: Theme Settings > Header > Search Banner
+Tweaked: Dark Mode
+Tweaked: Doc page meta (Options :: Doc > Header)
+Tweaked: Header and Banner page meta
+
+----- 1.1.5 (05 May 2021) -----
+Tweaked: Docs archives page
+Tweaked: Single doc Elementor widget
+New: New Single Documentation and Multi Documentation pages added
+Updated: Language file (languages/docy.pot)
+Fixed: : PHP error. count(): Parameter must be an array or an object that implements Countable in \docy\wedocs\content-related.php on line 59
+
+----- 1.1.4 (03 May 2021) -----
+New: Cool Knowledge base Homepage demo
+Fixed: Testimonial skin-2
+Fixed: PHP error - explode() expects parameter 2 to be string, array given in docy-core/widgets/Docs.php on line 185
+Tweaked: Dark Mode
+
+----- 1.1.3 (02 May 2021) -----
+Fixed: Search form overlaps by the overlay color on focus
+Tweaked: Dark Mode
+
+----- 1.1.2 (01 May 2021) -----
+New: Cool, Light and Community Search Hero (design inspired from our Docly theme)
+New: Theme Settings > Typography Settings
+New: Related docs
+New: Recently viewed docs
+Fixed: PHP errors on docs page
+
+----- 1.1.1 (25 April 2021) -----
+Tweaked: Dark Mode
+Tweaked: Overall design
+Tweaked: Header responsive
+Fixed: Action button meta
+New: Child Theme included
+
+----- 1.1.0 (21 April 2021) -----
+Fixed: The full theme checked and fixed the random issues
+New: Light Knowledgebase and Classic Helpdesk
+New: One-Click Demo Importer integrated
+Tweaked: The overall theme design
+
+----- 1.0.0 (19 April 2021) -----
+Initial Release

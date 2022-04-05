@@ -1,0 +1,831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-05 17:19+0600\n"
+"PO-Revision-Date: 2022-04-05 17:19+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__;_e;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:8 options/opt_404.php:12
+msgid "Error. We can’t find the page you’re looking for."
+msgstr ""
+
+#: 404.php:9
+msgid "We can't seem to find the page you're looking for"
+msgstr ""
+
+#: 404.php:10
+msgid "Go Back to home Page"
+msgstr ""
+
+#: 404.php:23
+msgid "404 page background shape."
+msgstr ""
+
+#: 404.php:27 404.php:35
+msgid "4 illustration"
+msgstr ""
+
+#: 404.php:31
+msgid "0 illustration"
+msgstr ""
+
+#: 404.php:45 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:60
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:61
+msgid "Email Here"
+msgstr ""
+
+#: comments.php:68
+msgid "Leave A Reply"
+msgstr ""
+
+#: comments.php:71
+msgid "Write your comment"
+msgstr ""
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: header-onepage.php:84
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/classes/Hovard_Walker_Comment.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/classes/Hovard_Walker_Comment.php:55
+msgid "Reply"
+msgstr ""
+
+#: inc/classes/Hovard_helper.php:107
+msgid "Blog"
+msgstr ""
+
+#: inc/classes/Hovard_helper.php:116
+msgid "Search result for: “"
+msgstr ""
+
+#: inc/demo_config.php:23
+msgid "Install and activate all "
+msgstr ""
+
+#: inc/demo_config.php:25
+msgid "required plugins"
+msgstr ""
+
+#: inc/demo_config.php:26
+msgid "before you click on the \"Import\" button."
+msgstr ""
+
+#: inc/demo_config.php:30
+msgid "After importing a demo, you will find all the pages in "
+msgstr ""
+
+#: inc/demo_config.php:32
+msgid "Pages."
+msgstr ""
+
+#: inc/demo_config.php:33
+msgid "Other pages will be imported along with the main Homepage demo."
+msgstr ""
+
+#: inc/demo_config.php:38
+msgid "If you fail to import the demo data, follow the alternative way"
+msgstr ""
+
+#: inc/demo_config.php:40 options/opt_typo.php:25
+msgid "here."
+msgstr ""
+
+#: inc/demo_config.php:54
+msgid "Creative Helpdesk"
+msgstr ""
+
+#: inc/demo_config.php:67
+msgid "Cool Knowledgebase"
+msgstr ""
+
+#: inc/demo_config.php:80
+msgid "Classic Helpdesk"
+msgstr ""
+
+#: inc/demo_config.php:93
+msgid "Light Knowledgebase"
+msgstr ""
+
+#: inc/demo_config.php:106
+msgid "Support Forum"
+msgstr ""
+
+#: inc/filter_actions.php:94
+msgid "Changelogs Settings"
+msgstr ""
+
+#: inc/filter_actions.php:95
+msgid "Settings"
+msgstr ""
+
+#: inc/plugin_activation.php:40
+msgid "Elementor"
+msgstr ""
+
+#: inc/plugin_activation.php:46
+msgid "Hovard Core"
+msgstr ""
+
+#: inc/plugin_activation.php:54
+msgid "Advanced Custom Fields-pro"
+msgstr ""
+
+#: inc/plugin_activation.php:61
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/plugin_activation.php:67
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/plugin_activation.php:73
+msgid "Pro Elements for Elementor"
+msgstr ""
+
+#: inc/sidebars.php:5
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:6
+msgid "Place widgets in sidebar widgets area."
+msgstr ""
+
+#: inc/template-functions.php:15
+msgid "Search ..."
+msgstr ""
+
+#: inc/template-functions.php:19
+msgid "Back to home Page"
+msgstr ""
+
+#: inc/template-functions.php:29
+msgid "No Comments"
+msgstr ""
+
+#: inc/template-functions.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-functions.php:33
+msgid " Comments"
+msgstr ""
+
+#: inc/template-functions.php:109
+msgid " minute"
+msgstr ""
+
+#: inc/template-functions.php:111
+msgid " minutes"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:302
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:303
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:307
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:308
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:360
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#: inc/tgm/class-tgm-plugin-activation.php:886
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+#: inc/tgm/class-tgm-plugin-activation.php:3639
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:362
+#: inc/tgm/class-tgm-plugin-activation.php:3218
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:363
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:372
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:575
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:576
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:693
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2041
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2332
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2335
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2351
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2354
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2357
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2374
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2378
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2386
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2389
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2557
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2569
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2606
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2607
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2612
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2613
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2662
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2667
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2743
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2776
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2782
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2785
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2816
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2818
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2859
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2861
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2967
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3217
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3557
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3560
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3562
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3566
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3569
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3574
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3577
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: options/opt-config.php:55
+msgid "Theme Settings"
+msgstr ""
+
+#: options/opt-config.php:56
+msgid "Hovard Theme Settings"
+msgstr ""
+
+#: options/opt-config.php:126
+msgid "Copyright Hovard &copy; 2021"
+msgstr ""
+
+#: options/opt_404.php:4
+msgid "404 Error Settings"
+msgstr ""
+
+#: options/opt_404.php:9
+msgid "Title Text"
+msgstr ""
+
+#: options/opt_404.php:16
+msgid "Subtitle"
+msgstr ""
+
+#: options/opt_404.php:19
+msgid ""
+"Sorry for the inconvenience. Go to our homepage or check out our latest "
+"collections for Fashion, Chair, Decoration..."
+msgstr ""
+
+#: options/opt_404.php:23
+msgid "Home Button Title"
+msgstr ""
+
+#: options/opt_404.php:26
+msgid "Back to Home Page"
+msgstr ""
+
+#: options/opt_404.php:32
+msgid "Button Text Color"
+msgstr ""
+
+#: options/opt_404.php:41
+msgid "Button Background Color"
+msgstr ""
+
+#: options/opt_404.php:48
+msgid "Background shape"
+msgstr ""
+
+#: options/opt_404.php:49
+msgid "Upload here the default background shape image"
+msgstr ""
+
+#: options/opt_blog.php:3
+msgid "Blog Pages"
+msgstr ""
+
+#: options/opt_blog.php:12
+msgid "Blog Heading"
+msgstr ""
+
+#: options/opt_blog.php:18
+msgid "Title"
+msgstr ""
+
+#: options/opt_blog.php:23
+msgid "Sub Title"
+msgstr ""
+
+#: options/opt_dark.php:4
+msgid "Dark Mode"
+msgstr ""
+
+#: options/opt_dark.php:9
+msgid "Dark Mode Switcher"
+msgstr ""
+
+#: options/opt_dark.php:10
+msgid "Show/Hide the Dark Mode Switcher on the Header navigation bar."
+msgstr ""
+
+#: options/opt_dark.php:13
+msgid "Show"
+msgstr ""
+
+#: options/opt_dark.php:14
+msgid "Hide"
+msgstr ""
+
+#: options/opt_general.php:3
+msgid "General"
+msgstr ""
+
+#: options/opt_general.php:9
+msgid "Copyright"
+msgstr ""
+
+#: options/opt_general.php:17
+msgid "Copyright Text"
+msgstr ""
+
+#: options/opt_header.php:4
+msgid "Header"
+msgstr ""
+
+#: options/opt_header.php:12 options/opt_header.php:18
+msgid "Logo"
+msgstr ""
+
+#: options/opt_header.php:19
+msgid "Upload here the black version of your logo."
+msgstr ""
+
+#: options/opt_header.php:28
+msgid " Retina Logo"
+msgstr ""
+
+#: options/opt_header.php:29
+msgid "The retina logo should be double (2x) of your original logo size."
+msgstr ""
+
+#: options/opt_social_links.php:3
+msgid "Social links"
+msgstr ""
+
+#: options/opt_social_links.php:11
+msgid "Facebook"
+msgstr ""
+
+#: options/opt_social_links.php:18
+msgid "Twitter"
+msgstr ""
+
+#: options/opt_social_links.php:25
+msgid "Instagram"
+msgstr ""
+
+#: options/opt_social_links.php:31
+msgid "LinkedIn"
+msgstr ""
+
+#: options/opt_social_links.php:38
+msgid "Youtube"
+msgstr ""
+
+#: options/opt_social_links.php:44
+msgid "Dribbble"
+msgstr ""
+
+#: options/opt_social_links.php:50
+msgid "GitHub"
+msgstr ""
+
+#: options/opt_typo.php:3
+msgid "Typography Settings"
+msgstr ""
+
+#: options/opt_typo.php:11 options/opt_typo.php:45
+msgid "Important Note:"
+msgstr ""
+
+#: options/opt_typo.php:13 options/opt_typo.php:47
+msgid ""
+"This tab contains general typography options. Additional typography options "
+"for specific areas can be found within other tabs. Example: For menu "
+"typography options go to the Menu Settings tab."
+msgstr ""
+
+#: options/opt_typo.php:19
+msgid "Body Typography"
+msgstr ""
+
+#: options/opt_typo.php:20
+msgid "These settings control the typography for the body text globally."
+msgstr ""
+
+#: options/opt_typo.php:23
+msgid "You can add your own custom font"
+msgstr ""
+
+#: options/opt_typo.php:26
+msgid "You can get the custom fonts in the Typography's Font Family list."
+msgstr ""
+
+#: options/opt_typo.php:36
+msgid "Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:53
+msgid "H1 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:54
+msgid "These settings control the typography for all H1 Headers."
+msgstr ""
+
+#: options/opt_typo.php:61
+msgid "H2 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:62
+msgid ""
+"These settings control the typography for all H2 Headers. The h2 title tag "
+"used in the most section title."
+msgstr ""
+
+#: options/opt_typo.php:68
+msgid "H3 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:69
+msgid "These settings control the typography for all H3 Headers."
+msgstr ""
+
+#: options/opt_typo.php:76
+msgid "H4 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:77
+msgid "These settings control the typography for all H4 Headers."
+msgstr ""
+
+#: options/opt_typo.php:84
+msgid "H5 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:85
+msgid "These settings control the typography for all H5 Headers."
+msgstr ""
+
+#: options/opt_typo.php:92
+msgid "H6 Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:93
+msgid "These settings control the typography for all H6 Headers."
+msgstr ""
+
+#: options/opt_user_profile.php:5
+msgid "User Info"
+msgstr ""
+
+#: options/opt_user_profile.php:11
+msgid "User Profile Image"
+msgstr ""
+
+#: options/opt_user_profile.php:12
+msgid "Set the User Profile image here"
+msgstr ""
+
+#: page.php:45 single.php:59
+msgid "Pages:"
+msgstr ""
+
+#: page.php:49 single.php:63
+msgid "Page"
+msgstr ""
+
+#: single-portfolio.php:69
+msgid "Previous Project"
+msgstr ""
+
+#: single-portfolio.php:76
+msgid "Next Project"
+msgstr ""
+
+#: template-parts/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/contents/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/contents/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/contents/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/contents/content-search.php:5
+msgid "Featured"
+msgstr ""
+
+#: template-parts/contents/content.php:16
+msgid " Comment"
+msgstr ""
+
+#: template-parts/single-post/author-info.php:15
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/single-post/author-info.php:24
+msgid "Share:"
+msgstr ""
+
+#: template-parts/single-post/related-posts.php:24
+msgid "Related Post"
+msgstr ""

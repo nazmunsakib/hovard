@@ -1,0 +1,46 @@
+.dark {
+    --heading_color: #FFFFFF !important;
+    --p_color: #9D9D9D !important;
+
+}
+.dark .service-box .elementor-widget-container {
+    background: #3C3A3A;
+    border-radius: 4px;
+}
+
+.dark .service-box-btn a {
+    color: #ccc;
+}
+
+.dark .blog_sidebar .widget.widget_nav_menu ul li a,
+.dark .blog_sidebar .widget.widget_meta ul li a,
+.dark .blog_sidebar .widget.widget_pages ul li a,
+.dark .blog_sidebar .widget.widget_archive ul li a,
+.dark .blog_sidebar .widget.widget_categories ul li a{
+    color: #8C9C9C;
+}
+
+.dark .wp-block-tag-cloud a,
+.dark .post_tag_info .post_tag a,
+.dark .tagcloud a {
+    color: #8C9C9C;
+    border: 1px solid var(--black_50);
+
+}
+
+.dark .hovard-blog-post .post-info-box {background: #3C3A3A;}
+
+.dark .hovard-blog-post .post-info-box h4 {color: #fff;}
+
+.dark .hovard-blog-post .post-info-box ul li {color: #8F9C9C;}
+
+.dark ::placeholder {
+    color: #9D9D9D !important;
+}
+.dark input[type="text"], .dark input[type="email"], .dark textarea {
+    color: #9D9D9D !important;
+}
+
+.dark .media-body p {
+    color: #9D9D9D;
+}

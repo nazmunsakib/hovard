@@ -1,0 +1,44 @@
+@media (min-width: 1536px) {
+
+}
+
+@media (min-width: 1280px) {
+    .xl\:bg-none {
+        background-image: none;
+    }
+    .dark .dark\:xl\:bg-none {
+        background-image: none;
+    }
+}
+
+@media (min-width: 1024px) {
+    .lg\:bg-none {
+        background-image: none;
+    }
+    .dark .lg\:dark\:bg-none {
+        background-image: none;
+    }
+}
+
+@media (max-width: 768px) {
+    #commentform {
+        margin-top: 100px;
+    }
+    .logged-in #commentform {
+        margin-top: 0;
+    }
+    .error_img{
+        padding-bottom: 0;
+    }
+
+
+}
+
+@media (min-width: 768px) {
+
+
+}
+
+@media (min-width: 640px) {
+
+}

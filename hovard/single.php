@@ -51,9 +51,8 @@ endif;
                                         class="ti-calendar text-sienna mr-2.5"></i><?php echo esc_html( get_the_date( 'F j, Y' ) ); ?>
                             </li>
                         </ul>
-
+                    <div class="blog-content">
 						<?php
-
 						the_content();
 						wp_link_pages( array(
 							'before'      => '<div class="page-links"><span class="page-links-title">' . esc_html__( 'Pages:', 'hovard' ) . '</span>',
@@ -66,6 +65,7 @@ endif;
 
 					endwhile;
 					?>
+                    </div>
                 </div>
 				<?php
 				// Related posts

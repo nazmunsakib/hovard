@@ -73,10 +73,6 @@ h6, .h6 {
 
 /**=== Single Blog style ===**/
 
-.single-blog-content p {
-    margin-top: 1.875rem;
-}
-
 .single-blog-content h1, .single-blog-content h2, .single-blog-content h3, .single-blog-content h4, .single-blog-content h5, .single-blog-content h6 {
     margin-top: 1.875rem;
 }
@@ -427,4 +423,75 @@ p.comment-form-cookies-consent {
     font-weight: 500;
     text-transform: uppercase;
     border-radius: 3px;
+}
+
+/*--- Custom css ----*/
+.site-logo h3 {
+    margin-bottom: 0;
+    font-size: 25px;
+    line-height: 30px;
+    color: #ffffff;
+
+}
+
+.main-logo-text {
+    background: var(--brand_color);
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.side-menu {
+    min-width: 370px;
+}
+
+.post-info-box span {
+    display: block;
+}
+
+.post-info-box span a {
+    display: inline-block;
+}
+
+#wp-calendar #today {
+    background: #ED7463;
+    color: #fff;
+}
+
+/**== Blog post list ==**/
+.hovard-blog-post-list {
+    margin-bottom: 35px
+}
+
+.list-post-info-box.relative.z-10 {
+}
+
+.lis-post-thumb img {
+    margin-bottom: 19px;
+}
+
+.hovard-blog-post-list {
+    margin-bottom: 35px;
+}
+
+.lis-post-thumb img {
+    margin-bottom: 25px;
+}
+
+.blog-post-meta li {
+    margin-right: 10px;
+}
+
+.list-post-info-box p {
+    font-size: 14px;
+}
+
+.read-more-btn {
+    margin-top: 10px;
+    display: inline-block;
+    color: var(--brand_color);
+    font-weight: 500;
+}
+.media-body p img {
+    margin-top: 20px;
 }

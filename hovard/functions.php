@@ -106,7 +106,7 @@ require get_template_directory() . '/inc/enqueue.php';
 /**
  * Theme's helper functions
  */
-require get_template_directory() . '/inc/classes/Hovard_Helper.php';
+require get_template_directory() . '/inc/classes/Hovard_helper.php';
 
 /**
  * ACF Metaboxes

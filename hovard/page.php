@@ -15,15 +15,14 @@
 get_header();
 
 $opt          = get_option( 'hovard_opt' );
-$user_img     = ! empty( $opt['user_img'] ) ? $opt['user_img'] : '';
+$user_img     = ! empty( $opt['user_img']['url'] ) ? $opt['user_img']['url'] : '';
 $page_wrapper = ! empty( $opt['user_img']['url'] ) ? 'md:w-720 lg:w-900 2xl:w-1045 mx-6 md:ml-auto md:mr-auto xl:mr-25 py-18.5 xl:py-25' : 'md:w-720 lg:w-900 2xl:w-1045 mx-6 md:mx-auto py-18.5 xl:py-25';
-if ( $user_img['url'] ):
-	?>
+?>
 
+<?php if ( $user_img ): ?>
     <div class="xl:block hidden fixed top-0 bottom-0 left-0 lg:w-400 2xl:w-660">
-        <img src="<?php echo esc_url( $user_img['url'] ); ?>" alt="User"/>
+        <img src="<?php echo esc_url( $user_img ); ?>" alt="<?php esc_attr_e('User', 'hovard'); ?>"/>
     </div>
-
 <?php
 endif;
 
@@ -37,7 +36,7 @@ while ( have_posts() ) : the_post();
 			<?php
 			endif;
 			?>
-            <div class="font-ibmplexmono font-normal text-para text-emperor dark:text-silver">
+            <div class="page-content font-ibmplexmono font-normal text-para text-emperor dark:text-silver">
 				<?php the_content(); ?>
             </div>
 			<?php

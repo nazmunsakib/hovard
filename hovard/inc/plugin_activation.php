@@ -44,10 +44,9 @@ function hovard_register_required_plugins() {
 
         array(
             'name'          => esc_html__( 'Hovard Core', 'hovard' ), // The plugin name.
-            'slug'          => 'hovard-core', // The plugin slug (typically the folder name).
-            'source'        => 'https://wordpress-theme.spider-themes.net/resources/hovard/hovard-core.zip', // The plugin source.
+            'slug'          => 'hovard-core', // The plugin name.
+            'source'        => get_template_directory_uri() . '/inc/tgm/hovard-core.zip' , // The plugin source.
             'required'      => true, // If false, the plugin is only 'recommended' instead of required.
-            'version'       => '1.0'
         ),
 
         array(

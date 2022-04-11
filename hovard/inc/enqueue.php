@@ -40,7 +40,7 @@ function hovard_scripts() {
 	/**
 	 * Registering site's scripts and styles
 	 */
-	wp_register_style( 'hovard-fonts', hovard_fonts_url(), array(), null );
+	wp_enqueue_style( 'hovard-fonts', hovard_fonts_url(), array(), null );
 
 	wp_enqueue_style( 'themify', HOVARD_DIR_CSS . '/themify-icons.css' );
 

@@ -20,7 +20,7 @@ $page_wrapper = ! empty( $opt['user_img']['url'] ) ? 'md:w-720 lg:w-900 2xl:w-10
 if ( $user_img['url'] ):
 	?>
     <div class="xl:block hidden fixed top-0 bottom-0 left-0 lg:w-400 2xl:w-660">
-        <img src="<?php echo esc_url( $user_img['url'] ); ?>" alt="User"/>
+        <img src="<?php echo esc_url( $user_img['url'] ); ?>" alt="<?php esc_attr_e('User','hovard') ?>"/>
     </div>
 <?php
 endif;

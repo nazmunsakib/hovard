@@ -2,7 +2,7 @@
     <div class="b_top_post_content ">
 		<?php
 		if ( is_sticky() ) {
-			echo '<p class="sticky-label">' . esc_html__( 'Featured', 'docy' ) . '</p>';
+			echo '<p class="sticky-label">' . esc_html__( 'Featured', 'hovard' ) . '</p>';
 		}
 		?>
 
